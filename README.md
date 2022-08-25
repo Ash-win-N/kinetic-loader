@@ -1,7 +1,7 @@
 <h1 align="center">Kinetic Loader!</h1><br>
 <br>
 <p align="center">
-For Live preview: <a href="https://ash-win-n.github.io/kinetic-loader/">Kinetic Loader/a></p><br>
+For Live preview: <a href="https://ash-win-n.github.io/kinetic-loader/">Kinetic Loader</a></p><br>
 
 <p align="center">
 
